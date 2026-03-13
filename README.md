@@ -25,8 +25,13 @@ Final project completed after a Data Analysis Bootcamp. The dataset used for the
 ---
 
 ## ✦ Dashboard Preview
-![Dashboard](dashboard1.png)
 ![Dashboard](Dashboard2.png)
+![Dashboard](Dashboard1.png)
+
+---
 
 ## 🪄 Author
 Ghala Althubaity
+Linkedin: <div align="left">
+  <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="24"/>
