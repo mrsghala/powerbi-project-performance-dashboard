@@ -33,6 +33,4 @@ Final project completed after a Data Analysis Bootcamp. The dataset used for the
 ## 🪄 Author
 Ghala Althubaity
 
-Linkedin:<div align="left">
-  <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="24"/>
+Linkedin: &nbsp; <a href="https://www.linkedin.com/in/ghala-althubaity-86508b372"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20"></a>
